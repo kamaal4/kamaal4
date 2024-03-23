@@ -4,10 +4,9 @@ Hi there! I'm Mustafa Kamaal, a passionate mobile developer (Android and iOS). W
 
 ## About Me ℹ️
 
-- **Name:** [Mohammed Mustafa Kamaal]
-- **Location:** [Hyderabad, IN]
-- **Occupation:** [Mobile developer]
-- **Interests:** [Your Interests/Hobbies]
+- **Name:** Mohammed Mustafa Kamaal
+- **Location:** Hyderabad, IN
+- **Occupation:** Mobile developer
 
 ## Projects 🚀
 
@@ -18,8 +17,8 @@ Here are some of the projects I've been working on. Feel free to explore them:
 
 ## Get in Touch 📫
 
-- **Email:** [tommkamaal@gmail.com]
-- **LinkedIn:** [https://www.linkedin.com/in/mmk4/]
+- **Email:** tommkamaal@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/mmk4/
 
 Feel free to reach out to me via any of the above channels. I'm always open to interesting discussions, collaborations, or just to say hi!
 
