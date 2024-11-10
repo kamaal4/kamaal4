@@ -1,6 +1,12 @@
 # Welcome to Mustafa Kamaal's GitHub Profile! 👋
 
-Hi there! I'm Mustafa Kamaal, a passionate mobile developer (Android and iOS). Welcome to my GitHub profile, where you can explore some of my projects, contributions, and interests.
+Hi there! I am a skilled mobile app developer with expertise in both iOS and Android platforms, bringing user-centered design, performance optimization, and seamless integration to every project. With a solid understanding of Swift, SwiftUI, Kotlin, and Android Jetpack Compose, I build high-quality, scalable applications that provide a smooth and engaging user experience.
+
+Beyond mobile development, I have a working knowledge of backend technologies, which enables me to understand and improve API integrations, optimize data flow, and troubleshoot server-related issues efficiently. This cross-disciplinary expertise allows me to collaborate effectively with backend teams and ensure cohesive end-to-end solutions.
+
+I’m passionate about continuous learning and keep up with the latest in mobile development trends, including MVVM architecture, AR/VR integrations, Firebase services, and third-party SDKs. My projects have spanned from consumer apps to custom SDKs, designed with precision and maintained with best practices in mind.
+
+Let’s connect! I’m always excited to discuss new opportunities and innovative projects in mobile app development.
 
 ## About Me ℹ️
 
