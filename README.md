@@ -1,32 +1,52 @@
 # Hello! This is Mustafa Kamaal's profile 👋
 
-I am a skilled mobile app developer with expertise in both iOS and Android platforms, bringing user-centered design, performance optimization, and seamless integration to every project. With a solid understanding of Swift, SwiftUI, Kotlin, and Android Jetpack Compose, I build high-quality, scalable applications that provide a smooth and engaging user experience.
+I am a **results-driven Senior Mobile Developer** with expertise in full-stack mobile development, specialized in building **high-performance applications** for both Android and iOS platforms using modern technologies and best practices. My passion lies in delivering **scalable solutions** through Clean Architecture, MVVM, and state-of-the-art development tools.
 
-Beyond mobile development, I have a working knowledge of backend technologies, which enables me to understand and improve API integrations, optimize data flow, and troubleshoot server-related issues efficiently. This cross-disciplinary expertise allows me to collaborate effectively with backend teams and ensure cohesive end-to-end solutions.
+With a proven track record of creating **reusable SDKs**, implementing complex UI features, and optimizing application performance, I thrive on innovation and collaboration to achieve impactful results. Beyond mobile development, I possess a strong understanding of **backend technologies**, enabling me to streamline **API integrations**, optimize **data flow**, and troubleshoot efficiently.
 
-I’m passionate about continuous learning and keep up with the latest in mobile development trends, including MVVM architecture, AR/VR integrations, Firebase services, and third-party SDKs. My projects have spanned from consumer apps to custom SDKs, designed with precision and maintained with best practices in mind.
+## Core Skills 💡
 
-Let’s connect! I’m always excited to discuss new opportunities and innovative projects in mobile app development.
+- **Mobile Development:** Android SDK, iOS SDK, SwiftUI, Jetpack Compose  
+- **Architectures:** MVVM, Clean Architecture, Coordinator Pattern  
+- **State Management:** Kotlin Flow, Combine, StateFlow, LiveData  
+- **Tools & Frameworks:** Dagger Hilt, Retrofit, Alamofire, Firebase, AWS  
+- **Testing:** JUnit, XCTest, Mockito  
+
+My work is backed by **clean code practices**, **performance optimization**, and a focus on creating **user-centered designs**.
 
 ## About Me ℹ️
 
-- **Name:** Mohammed Mustafa Kamaal
-- **Location:** Hyderabad, IN
-- **Occupation:** Mobile developer
+- **Name:** Mohammed Mustafa Kamaal  
+- **Location:** Hyderabad, IN  
+- **Occupation:** Senior Mobile Developer  
 
 ## Projects 🚀
 
-Here are some of the projects I've been working on. Feel free to explore them:
+Here are some of the exciting projects I've worked on:
 
-1. **[Brilliant By Langham](https://apps.apple.com/in/app/brilliant-by-langham/id6449087255)** - Brilliant by Langham mobile app allows you to explore the world anytime anywhere. Discover all the member benefits provided by Brilliant by Langham at the touch of a button.
-2. **[Cenomi Rewards](https://play.google.com/store/search?q=cenomi+rewards&c=apps&hl=en_IN&gl=US)** - This application is crafted utilizing cutting-edge technologies such as Jetpack Compose, Kotlin Multiplatform Mobile (KMM), Dagger Hilt for dependency injection, Coroutines for asynchronous programming, Flows for reactive streams, all structured within the robust MVVM (Model-View-ViewModel) architecture.
+1. **[Brilliant By Langham](https://apps.apple.com/in/app/brilliant-by-langham/id6449087255)**  
+   A cross-platform mobile app integrating **SwiftUI** and **UIKit** on iOS and **Jetpack Compose** on Android. Features include content updates via **Adobe AEM headless CMS** and **modern concurrency patterns** for seamless performance.
+
+2. **[Cenomi Rewards](https://play.google.com/store/search?q=cenomi+rewards&c=apps&hl=en_IN&gl=US)**  
+   Built with **Kotlin Multiplatform Mobile (KMM)**, **Clean Architecture**, and **Compose UI**. Integrated **Contentful CMS** for dynamic content management and achieved 50% code sharing across platforms.
+
+3. **AiScan iOS SDK**  
+   Designed an iOS SDK using **Vision** and **VisionKit** frameworks for receipt scanning with **95% accuracy**. This SDK features **theme inheritance**, content customization, and multi-image stitching for long receipts.
+
+4. **Antum Android App**  
+   Developed from the ground up using **MVVM architecture** and modern Android practices. Includes **real-time sync features** using Firebase.
+
+5. **Real-Time AR Sync**  
+   Built an AR application using **ARKit**, **SceneKit**, and Firebase for real-time synchronization of 3D objects across devices.
 
 ## Get in Touch 📫
 
-- **Email:** tommkamaal@gmail.com
-- **LinkedIn:** https://www.linkedin.com/in/mmk4/
+- **Email:** tommkamaal@gmail.com  
+- **LinkedIn:** [linkedin.com/in/mmk4](https://www.linkedin.com/in/mmk4)  
+- **GitHub:** [github.com/kamaal4](https://github.com/kamaal4)  
+- **LeetCode:** [leetcode.com/u/DeVanquisher](https://leetcode.com/u/DeVanquisher)  
 
-Feel free to reach out to me via any of the above channels. I'm always open to interesting discussions, collaborations, or just to say hi!
+Feel free to reach out via any of the above channels. I’m always open to discussing **innovative projects** or **collaborations**.
 
 ## Let's Connect! 🤝
 
