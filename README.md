@@ -1,53 +1,99 @@
 # Hello! This is Mustafa Kamaal's profile 👋
 
-I am a **results-driven Senior Mobile Developer** with expertise in full-stack mobile development, specialized in building **high-performance applications** for both Android and iOS platforms using modern technologies and best practices. My passion lies in delivering **scalable solutions** through Clean Architecture, MVVM, and state-of-the-art development tools.
+I am a **Senior iOS Developer** with extensive mobile application development experience, specializing in building **high-performance, scalable applications** for fintech, fitness, and hospitality sectors. My expertise spans **iOS and Android development**, with a strong focus on Swift, SwiftUI, and modern architectural patterns.
 
-With a proven track record of creating **reusable SDKs**, implementing complex UI features, and optimizing application performance, I thrive on innovation and collaboration to achieve impactful results. Beyond mobile development, I possess a strong understanding of **backend technologies**, enabling me to streamline **API integrations**, optimize **data flow**, and troubleshoot efficiently.
+With a proven track record of publishing multiple successful applications, I excel at creating enterprise-grade mobile solutions that deliver exceptional user experiences. I've architected modular frameworks that significantly reduced development cycles and achieved industry-leading stability rates through rigorous testing and optimization.
+
+Beyond mobile development, my background in **backend engineering** with Java, Spring Boot, and AWS cloud services enables me to build comprehensive full-stack solutions and seamlessly integrate complex APIs.
 
 ## Core Skills 💡
 
-- **Mobile Development:** Android SDK, iOS SDK, SwiftUI, Jetpack Compose  
-- **Architectures:** MVVM, Clean Architecture, Coordinator Pattern  
-- **State Management:** Kotlin Flow, Combine, StateFlow, LiveData  
-- **Tools & Frameworks:** Dagger Hilt, Retrofit, Alamofire, Firebase, AWS  
-- **Testing:** JUnit, XCTest, Mockito  
+**iOS Development**
+- Swift, SwiftUI, iOS SDK, Xcode
+- Core Data, Combine, SwiftData
+- MVVM, MVC, Clean Architecture
+- Core Location, MapKit, Vision, ARKit
 
-My work is backed by **clean code practices**, **performance optimization**, and a focus on creating **user-centered designs**.
+**Mobile Frameworks & Tools**
+- Android SDK, Kotlin, Jetpack Compose
+- Firebase SDK, Push Notifications
+- URLSession, Networking, RESTful APIs
+- Git, CI/CD, Fastlane, Jenkins, TestFlight
+
+**Backend & Cloud**
+- AWS (S3, Lambda, DynamoDB, API Gateway)
+- Java, Spring Boot, Microservices
+- REST API, JSON, OAuth
+
+**Testing & DevOps**
+- XCTest, Unit Testing, Debugging
+- TestFlight Beta Testing
+- CI/CD Automation
+
+My work is backed by **clean code practices**, **performance optimization**, and a commitment to **user-centered design**.
 
 ## About Me ℹ️
 
-- **Name:** Mohammed Mustafa Kamaal  
-- **Location:** Hyderabad, IN  
-- **Occupation:** Senior Mobile Developer  
+- **Name:** Mohammed Mustafa Kamaal
+- **Location:** Hyderabad, India
+- **Current Role:** Product Engineer - iOS at Loyalty Juggernaut
+- **Experience:** Multiple years in mobile development
 
-## Projects 🚀
+## Key Projects 🚀
 
-Here are some of the exciting projects I've worked on:
+### **FitTribe Fitness Platform**
+*Swift, SwiftUI, Firebase, Core Location*
 
-1. **[Brilliant By Langham](https://apps.apple.com/in/app/brilliant-by-langham/id6449087255)**  
-   A cross-platform mobile app integrating **SwiftUI** and **UIKit** on iOS and **Jetpack Compose** on Android. Features include content updates via **Adobe AEM headless CMS** and **modern concurrency patterns** for seamless performance.
+Mobile fitness application for the Mexico market featuring social networking, real-time activity tracking, and HealthKit integration. Built with SwiftUI and Firebase for seamless user engagement.
 
-2. **[Cenomi Rewards](https://play.google.com/store/search?q=cenomi+rewards&c=apps&hl=en_IN&gl=US)**  
-   Built with **Kotlin Multiplatform Mobile (KMM)**, **Clean Architecture**, and **Compose UI**. Integrated **Contentful CMS** for dynamic content management and achieved 50% code sharing across platforms.
+### **Booost Fintech Platform**
+*Swift, SwiftUI, Core Data, Firebase*
 
-3. **AiScan iOS SDK**  
-   Designed an iOS SDK using **Vision** and **VisionKit** frameworks for receipt scanning with **95% accuracy**. This SDK features **theme inheritance**, content customization, and multi-image stitching for long receipts.
+Enterprise fintech application with biometric authentication, secure payments, and offline-first architecture using Core Data for robust data persistence.
 
-4. **Antum Android App**  
-   Developed from the ground up using **MVVM architecture** and modern Android practices. Includes **real-time sync features** using Firebase.
+### **[Brilliant by Langham](https://apps.apple.com/in/app/brilliant-by-langham/id6449087255)**
+*Swift, SwiftUI, MapKit, REST API*
 
-5. **Real-Time AR Sync**  
-   Built an AR application using **ARKit**, **SceneKit**, and Firebase for real-time synchronization of 3D objects across devices.
+Luxury hospitality rewards app with strong user engagement and positive App Store ratings. Features seamless integration with MapKit for location services and RESTful APIs for real-time data synchronization.
+
+### **Cenomi Rewards Platform**
+*SwiftUI, REST APIs, MapKit*
+
+Multi-brand loyalty rewards platform supporting multiple global retail brands with dynamic content management and location-based features.
+
+### **AiScan Document SDK**
+*Vision Framework, Core Image, AVFoundation*
+
+AI-powered document scanner SDK with OCR capabilities and intelligent edge detection. Designed for seamless integration into iOS applications with customizable themes and multi-image stitching.
+
+### **Cross-Platform Mobile SDK**
+*Swift (iOS), Kotlin (Android)*
+
+Developed during my internship at Loyalty Juggernaut, this SDK achieved widespread adoption across platforms, featuring offline-first data persistence and Firebase Cloud Messaging integration.
+
+## Professional Achievements 🏆
+
+- 📱 Published multiple iOS applications with strong download performance on the App Store
+- 🎯 Significantly improved application stability by implementing robust error handling and crash prevention
+- 🚀 Architected modular iOS framework that substantially reduced development cycles
+- 🌟 Achieved excellent crash-free stability rates across production applications
+- 👥 Delivered mobile SDK with widespread user adoption across iOS and Android platforms
+- 🎓 B.Tech in Computer Science with strong academic performance from Maulana Azad National University
 
 ## Get in Touch 📫
 
-- **Email:** tommkamaal@gmail.com  
-- **LinkedIn:** [linkedin.com/in/mmk4](https://www.linkedin.com/in/mmk4)  
-- **GitHub:** [github.com/kamaal4](https://github.com/kamaal4)  
-- **LeetCode:** [leetcode.com/u/DeVanquisher](https://leetcode.com/u/DeVanquisher)  
+- **Email:** tommkamaal@gmail.com
+- **Phone:** +91-7793988711
+- **LinkedIn:** [linkedin.com/in/mmk4](https://www.linkedin.com/in/mmk4)
+- **GitHub:** [github.com/kamaal4](https://github.com/kamaal4)
+- **LeetCode:** [leetcode.com/u/DeVanquisher](https://leetcode.com/u/DeVanquisher)
 
-Feel free to reach out via any of the above channels. I’m always open to discussing **innovative projects** or **collaborations**.
+Feel free to reach out for discussions about **iOS development**, **mobile architecture**, **innovative projects**, or **collaboration opportunities**. I'm always excited to connect with fellow developers and explore new challenges!
 
 ## Let's Connect! 🤝
 
-Connect with me on GitHub to stay updated on my latest projects and activities. Don't forget to ⭐️ my repositories if you find them useful!
+Connect with me on GitHub to stay updated on my latest projects and contributions. Don't forget to ⭐️ my repositories if you find them useful!
+
+---
+
+*"Building exceptional mobile experiences, one line of code at a time."*
